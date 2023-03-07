@@ -1,0 +1,8 @@
+cartelle da inserire esterne alla cartella lib
+
+assicurarsi di avere nel pubspec.yaml
+
+il percorso
+
+assets:
+     - assets/images/
